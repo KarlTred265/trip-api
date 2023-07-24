@@ -63,7 +63,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'trip-api-dc90bf17ef25.herokuapp.com',
-    'localhost',
+    'localhost', 
 ]
 
 # Application definition
