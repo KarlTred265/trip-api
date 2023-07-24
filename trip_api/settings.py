@@ -62,9 +62,8 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-karltred265-tripapi-robgxxjmbly.ws-eu102.gitpod.io',
-    'localhost', 
-    os.environ.get('ALLOWED_HOST'),
+    'trip-api-dc90bf17ef25.herokuapp.com',
+    'localhost',
 ]
 
 # Application definition
