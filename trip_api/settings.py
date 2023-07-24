@@ -59,7 +59,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'trip_api.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'trip-api.herokuapp.com']
 
 
 # Application definition
